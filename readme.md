@@ -1,6 +1,6 @@
 # Slime
 
-[Slime](http://anuraghazra.github.io/Slime) made with Repeling behaviors and low stiffness constraints.
+[Slime](http://anuraghazra.github.io/Slime) made with repel behaviors and low stiffness constraints.
 
 ### Made with [Verly.js](https://github.com/anuraghazra/Verly.js)
 
