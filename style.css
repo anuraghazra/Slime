@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+a.link {
+  color: white;
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
+a.link:hover {
+  color: #40ffa6;
+}
+
+.floating-ui {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
