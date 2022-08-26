@@ -22,4 +22,4 @@
 
 Contributions Are Welcomed.
 
-Made with :heart: and JavaScrip
+Made with :heart: and JavaScript
